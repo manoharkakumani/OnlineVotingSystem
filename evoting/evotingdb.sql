@@ -62,8 +62,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `password`, `email`, `phone`, `aadhar`, `voterid`, `verify`, `verify1`, `code`, `status`, `result`, `election`) VALUES
-(1, 'admin', 'admin', 'admin@gmail.com', '8186025553', '0123456789', '5h6KFXe3Mq', 1, 1, 7837, 0, 0, 0),
-(2, 'manoharkakumani', '2', 'aaa@gmail.com', '81860255532', '14515421', 'GXdNrpkHpL', 1, 1, 1211, 0, 0, 0);
+(1, 'admin', 'admin', 'admin@gmail.com', '123', '0123456789', '5h6KFXe3Mq', 1, 1, 7837, 0, 0, 0),
+(2, 'manoharkakumani', '2', 'aaa@gmail.com', '123', '14515421', 'GXdNrpkHpL', 1, 1, 1211, 0, 0, 0);
 
 --
 -- Indexes for dumped tables
